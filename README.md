@@ -1,5 +1,8 @@
 # JavaScript Homework - JavaScript and DOM Manipulation
 
+
+* Diego Gonzalez - [@dlg410](https://github.com/dlg410)
+
 ## Background
 
 WAKE UP SHEEPLE! The extra-terrestrial menace has come to Earth and we here at `ALIENS-R-REAL` have collected all of the eye-witness reports we could to prove it! All we need to do now is put this information online for the world to see and then the matter will finally be put to rest.
@@ -60,4 +63,4 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
 ### Copyright
 
-Trilogy Education Services © 2019. All Rights Reserved.
+<!-- Trilogy Education Services © 2019. All Rights Reserved. -->
